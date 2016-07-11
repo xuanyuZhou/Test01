@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // 欢迎页代码
+        // 欢迎页完成
     }
 }
